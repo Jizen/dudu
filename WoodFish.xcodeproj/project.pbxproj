@@ -356,6 +356,7 @@
 				INFOPLIST_FILE = WoodFish/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.jizan.dudu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "159d30ae-4de6-4384-9959-12287cc73855";
 			};
@@ -370,6 +371,7 @@
 				INFOPLIST_FILE = WoodFish/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.jizan.dudu;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "159d30ae-4de6-4384-9959-12287cc73855";
 			};
